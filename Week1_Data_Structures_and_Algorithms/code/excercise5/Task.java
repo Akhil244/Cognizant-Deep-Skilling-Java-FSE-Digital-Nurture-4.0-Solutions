@@ -13,7 +13,6 @@ public class Task {
         return taskId;
     }
 
-    @Override
     public String toString() {
         return "Task [ID=" + taskId + ", Name=" + taskName + ", Status=" + status + "]";
     }
