@@ -1,4 +1,4 @@
-# Cognizant Deep Skilling Java FSE – Week 1 and 2 Code Recovery
+# Cognizant Deep Skilling Java FSE – Week Code Recovery
 
 ## Context
 
