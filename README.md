@@ -4,7 +4,7 @@
 
 This repository originally contained all Week 1 solutions
 
-Due to a Git misconfiguration and accidental conflicts during version control operations, all Week 2 files were lost from the working directory.
+Due to a Git misconfiguration and accidental conflicts during version control operations, all of the Week files were lost from the working directory.
 
 ## Actions Taken
 
