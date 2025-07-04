@@ -1,3 +1,0 @@
-JPA: Specification only
-Hibernate: ORM implementation of JPA
-Spring Data JPA: Abstraction on top of JPA
