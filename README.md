@@ -23,7 +23,7 @@ This repository originally contained all solutions for Weeks 1 and 2 of the Java
 | 1    | Design Patterns, Algorithms & Data Structures                           | ✅ Completed           |
 | 2    | Junit Basic Testing Mockito SLF PL/SQL                                  | ✅ Reconstructed       |
 | 3    | Spring Core and Maven Spring Data JPA with Hibernate                    | ✅ Completed           |
-| 4    | Spring_REST_using_Spring_Boot                                           | ✅ Completed           |
+| 4    | Spring REST using Spring Boot                                           | ✅ Completed           |
 | 5    | Microservices with Spring Boot 3 and Spring Cloud                       | ✅ Completed           |
 | 6    | React                                                                   | ✅ Completed           |
 | 7    | React                                                                   | ⬜ Yet to Start        |
