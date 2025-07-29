@@ -16,7 +16,8 @@ This repository originally contained all solutions for Weeks 1 and 2 of the Java
 
 - Restored the Maven project structure and confirmed compatibility with mvn clean compile test.
 
-  ## Hands-on Progress Tracker
+## Hands-on Progress Tracker
+
 | Week | Mandatory Hands-on                                                      |     Status             |
 |------|-------------------------------------------------------------------------|------------------------|
 | 1    | Design Patterns, Algorithms & Data Structures                           | ✅ Completed           |
