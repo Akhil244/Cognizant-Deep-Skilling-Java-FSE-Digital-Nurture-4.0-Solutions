@@ -17,7 +17,6 @@ This repository originally contained all solutions for Weeks 1 and 2 of the Java
 - Restored the Maven project structure and confirmed compatibility with mvn clean compile test.
 
   ## Hands-on Progress Tracker
-+----------------------------------------------------------------------------------------------------------+
 | Week | Mandatory Hands-on                                                      |     Status             |
 |------|-------------------------------------------------------------------------|------------------------|
 | 1    | Design Patterns, Algorithms & Data Structures                           | ✅ Completed           |
@@ -28,7 +27,7 @@ This repository originally contained all solutions for Weeks 1 and 2 of the Java
 | 6    | React                                                                   | ✅ Completed           |
 | 7    | React                                                                   | ⬜ Yet to Start        |
 | 8    | Git                                                                     | ⬜ Yet to Start        |
-+----------------------------------------------------------------------------------------------------------+
+
 ## Important Note
 
 This is a recovery commit. The files lost during Git operations have been reconstructed with best effort and testing. Previous commit history might be lost due to a forced reinitialization (`git init` and `.git` folder reset).
