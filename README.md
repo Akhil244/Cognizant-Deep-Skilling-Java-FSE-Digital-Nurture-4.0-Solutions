@@ -26,7 +26,7 @@ This repository originally contained all solutions for Weeks 1 and 2 of the Java
 | 4    | Spring REST using Spring Boot                                           | ✅ Completed           |
 | 5    | Microservices with Spring Boot 3 and Spring Cloud                       | ✅ Completed           |
 | 6    | React                                                                   | ✅ Completed           |
-| 7    | React                                                                   | ⬜ Yet to Start        |
+| 7    | React                                                                   | ✅ Completed           |
 | 8    | Git                                                                     | ⬜ Yet to Start        |
 
 ## Important Note
