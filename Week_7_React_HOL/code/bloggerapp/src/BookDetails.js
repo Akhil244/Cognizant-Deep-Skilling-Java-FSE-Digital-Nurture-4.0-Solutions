@@ -1,6 +1,4 @@
 import React from 'react';
-
-// Data for books as per hint [Image 4]
 const booksData = [
   { id: 101, bname: 'Master React', price: 670 },
   { id: 102, bname: 'Deep Dive Into Angular 11', price: 800 },
