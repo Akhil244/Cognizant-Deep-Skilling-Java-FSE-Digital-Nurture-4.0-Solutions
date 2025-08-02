@@ -27,7 +27,7 @@ This repository originally contained all solutions for Weeks 1 and 2 of the Java
 | 5    | Microservices with Spring Boot 3 and Spring Cloud                       | ✅ Completed           |
 | 6    | React                                                                   | ✅ Completed           |
 | 7    | React                                                                   | ✅ Completed           |
-| 8    | Git                                                                     | ⬜ Yet to Start        |
+| 8    | Git                                                                     | ✅ Completed           |
 
 ## Important Note
 
